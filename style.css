@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #b55c1d;
+p{}
+  color:#f2f191 ;
+  font-size: 80px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+  margin: ;
+}
+.content1{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.content1 img{
+  height: 100px
+}
+.pastel{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.pastel img{
+  height: 400px
+.conten2{
+  
